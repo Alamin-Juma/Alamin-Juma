@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Enjoys swimming, Coke and cycling
 -->
+
+## 📗 My latest Blogs
+- [Array methods to make you a strong Javascript Developer](https://dev.to/alaminjuma/javascript-array-methods-to-master-1kgl)
