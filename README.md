@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## Am Alamin Juma, a software engineer at [iote](https://github.com/iote)
 <!--
 **Alamin-Juma/Alamin-Juma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
