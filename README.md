@@ -21,17 +21,17 @@ Skills: VUE / REACT / ANGULA / HTML / CSS/ JAVA / KUBERNETES / DOCKER
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alamin-juma)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-juma)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-juma)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin-juma&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alamin-juma)  
-
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alamin-juma)  
+ -->
 ![GitHub metrics](https://metrics.lecoq.io/alamin-juma)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alamin-juma)  
 
-![Profile views](https://gpvc.arturio.dev/alamin-juma)  
-
+<!-- ![Profile views](https://gpvc.arturio.dev/alamin-juma)  
+ -->
 ## 📗 My latest Blogs
 - [Array methods to make you a strong Javascript Developer](https://dev.to/alaminjuma/javascript-array-methods-to-master-1kgl)
