@@ -35,3 +35,6 @@ Skills: VUE / REACT / ANGULA / HTML / CSS/ JAVA / KUBERNETES / DOCKER
  -->
 ## 📗 My latest Blogs
 - [Array methods to make you a strong Javascript Developer](https://dev.to/alaminjuma/javascript-array-methods-to-master-1kgl)
+
+- ### GITHUB GRAPH ⚡
+<a href="https://github.com/Alamin-Juma"><img alt="Alamin-Juma Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alamin-Juma&custom_title=Alamin-Juma's%20Contribution%20Graph&theme=react-dark" /></a>
