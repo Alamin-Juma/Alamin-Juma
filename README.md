@@ -4,7 +4,7 @@
 
 I love using modern tech tool to create applications and integrate third part solutions. I enjoy teaching technology to newbies and being part of their success. 
 
-Skills: VUE / REACT / ANGULA / HTML / CSS/ JAVA / KUBERNETES / DOCKER
+Skills:  REACT / REDUX/ TYPESCRIPT/  ANGULAR / JAVA / AWS SERVERLESS / DOCKER
 
 - 🔭 I’m currently working on RxJS 
 - 🌱 I’m currently learning DevOps on AWS, CI/CD and microservices on Kubenetes 
