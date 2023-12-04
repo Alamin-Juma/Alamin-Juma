@@ -4,7 +4,7 @@
 
 I love using modern tech tool to create end-to-end applications and integrate third part solutions. I enjoy teaching technology to newbies or junior software engineers and being part of their success. 
 
-Skills:  REACT / REDUX/ TYPESCRIPT/ NODE JS/ GRAPHQL /  ANGULAR / JAVA - SPRING BOOT / AWS SERVERLESS / DOCKER
+Skills:  REACT /ANGULAR/ RXJS/ REDUX/ TYPESCRIPT/ NODE JS/ GRAPHQL /  C# - .NET / JAVA - SPRING BOOT / AWS SERVERLESS / DOCKER
 
 - 🔭 I’m currently working on RxJS with GraphQL  
 - 🌱 I’m currently learning DevOps on AWS, CI/CD and microservices on Kubenetes 
