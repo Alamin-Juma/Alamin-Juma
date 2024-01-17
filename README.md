@@ -48,4 +48,5 @@ Skills:  REACT /ANGULAR/ RXJS/ REDUX/ TYPESCRIPT/ NODE JS/ GRAPHQL /  C# - .NET 
 <!-- GitHub Activity Graph 
 ### GITHUB GRAPH ⚡
 ![Alamin-Juma Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alamin-Juma&custom_title=Alamin-Juma's%20Contribution%20Graph&theme=react-dark)-->
+[![Alamin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alamin-juma)](https://github.com/alamin-juma/github-readme-activity-graph)
 
