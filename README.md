@@ -8,7 +8,7 @@ I have taught at :
 - Italanta Fullstack Bootcamp https://italanta.net/
 - currently, I teach Fullstack Typescript at Teach2Give https://teach2give.com/
   
-I have worked a software engineer at : 
+I have worked as a software engineer at : 
 - Elewa Education https://elewa.education/home building Syndic4You App - propertry management application https://syndicyourself.be/fr/
 - Nakala Analytics https://nakala-analytics.co.ke/ building fx-nakala for forex prediction https://fx.nakala-analytics.co.ke/ and S-analyzer App https://taswirai.com/s- 
   analyzer
