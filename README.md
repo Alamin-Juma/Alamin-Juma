@@ -1,14 +1,18 @@
 ### Hi there 👋, my name is Alamin Juma
-#### I am software engineer
-<!-- ![I am software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+#### I am a software engineer
+<!-- ![I am a software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-I love using modern tech tool to create end-to-end applications and integrate third part solutions. I enjoy teaching technology to newbies or junior software engineers and being part of their success. 
+I love using modern tech tools to create end-to-end applications and integrate third-party solutions. I enjoy teaching technology to newbies or junior software engineers and being part of their success.
+
+I have taught at : 
+- Italanta Fullstack Bootcamp https://italanta.net/
+- currently, I teach Fullstack Typescript at Teach2Give https://teach2give.com/
 
 Skills:  REACT /ANGULAR/ RXJS/ REDUX/ TYPESCRIPT/ NODE JS/ GRAPHQL /  C# - .NET / JAVA - SPRING BOOT / AWS SERVERLESS / DOCKER
 
 - 🔭 I’m currently working on RxJS with GraphQL  
-- 🌱 I’m currently learning DevOps on AWS, CI/CD and microservices on Kubenetes 
-- 🤔 I’m looking for help with architecting a high end application   
+- 🌱 I’m currently learning DevOps on AWS, CI/CD, and microservices on Kubernetes 
+- 🤔 I’m looking for help with architecting a high-end application   
 - 💬 Ask me about Java, Spring Boot and Quacks 
 - 📫 How to reach me: alaminjuma96@gmail.com 
 - 😄 Pronouns: He 
