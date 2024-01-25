@@ -5,6 +5,7 @@
 I love using modern tech tools to create end-to-end applications and integrate third-party solutions. I enjoy teaching technology to newbies or junior software engineers and being part of their success.
 
 #### I have taught at :  
+- Google Developers Club MENA for Google cloud skills and Android https://drive.google.com/file/d/1wvExKQGNDLI-m2mAxyJq1R1gNfItxqoy/view?usp=sharing
 - Italanta Fullstack Bootcamp https://italanta.net/
 - currently, I teach Fullstack Typescript at Teach2Give https://teach2give.com/
   
