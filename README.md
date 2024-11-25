@@ -6,9 +6,9 @@ I love building staff and experimenting new technologies
 
 #### I have worked as a software engineer at : 
 - Patameds Ltd building AfyaBook https://www.afyabook.com/ using modern technologies Next, Typescript, Mongodb, Express, Node js 
-- Elewa Education https://elewa.education/home building Syndic4You App - propertry management application https://syndicyourself.be/fr/
+- Elewa Education https://elewa.education/home building Syndic4You App - propertry management application https://syndicyourself.be/fr/ using Angular, Typescript, Firebase, Nest JS, AWS
 - Nakala Analytics https://nakala-analytics.co.ke/ building fx-nakala for forex prediction https://fx.nakala-analytics.co.ke/ and S-analyzer App https://taswirai.com/s- 
-  analyzer
+  analyzer using Python, Typescript, NLP, Express/Node js, Next JS
 - IOTE opensource Typescript and Node Monorepo https://github.com/iote   
 
 #### I have taught at :  
