@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Alamin Juma
-#### I am a software engineer - The Griffins Global Tech https://www.griffinglobaltech.com/
+#### I am a software engineer at - The Griffins Global Tech https://www.griffinglobaltech.com/
 <!-- ![I am a software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I love building staff and experimenting new technologies
