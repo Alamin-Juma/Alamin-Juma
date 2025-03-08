@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Alamin Juma
-#### I am a software engineer
+#### I am a software engineer - The Griffins Global Tech https://www.griffinglobaltech.com/
 <!-- ![I am a software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I love building staff and experimenting new technologies
@@ -9,7 +9,8 @@ I love building staff and experimenting new technologies
 - Elewa Education https://elewa.education/home building Syndic4You App - propertry management application https://syndicyourself.be/fr/ using Angular, Typescript, Firebase, Nest JS, AWS
 - Nakala Analytics https://nakala-analytics.co.ke/ building fx-nakala for forex prediction https://fx.nakala-analytics.co.ke/ and S-analyzer App https://taswirai.com/s- 
   analyzer using Python, Typescript, NLP, Express/Node js, Next JS
-- IOTE opensource Typescript and Node Monorepo https://github.com/iote   
+- IOTE opensource Typescript and Node Monorepo https://github.com/iote
+- - The Griffins Global Tech https://www.griffinglobaltech.com/
 
 #### I have taught at :  
 - Google Developers Club MENA for Google cloud skills and Android https://drive.google.com/file/d/1wvExKQGNDLI-m2mAxyJq1R1gNfItxqoy/view?usp=sharing
@@ -19,13 +20,13 @@ I love building staff and experimenting new technologies
 #### Skills:  
       REACT /ANGULAR/ RXJS/ REDUX/ TYPESCRIPT/ NODE JS/ GRAPHQL /  C# - .NET / JAVA - SPRING BOOT / AWS SERVERLESS / DOCKER
 
-- 🔭 I’m currently working on RxJS with GraphQL  
-- 🌱 I’m currently learning DevOps on AWS, CI/CD, and microservices on Kubernetes 
+- 🔭 I’m currently working on Ethreum and Solidity for Smart Contracts
+- 🌱 I’m currently learning Blockchain and Web 3
 - 🤔 I’m looking for help with architecting a high-end application   
-- 💬 Ask me about Java, Spring Boot and Quacks 
+- 💬 Ask me anything about building backends or frontends 
 - 📫 How to reach me: alaminjuma96@gmail.com 
 - 😄 Pronouns: He 
-- ⚡ Fun fact: Enjoys hiking, cycling, swimming and Coke Cola 
+- ⚡ Fun fact: Enjoys hiking, cycling, swimming and cold coke
 
 
 <!--
