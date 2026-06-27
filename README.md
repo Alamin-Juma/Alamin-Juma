@@ -1,60 +1,126 @@
-### Hi there 👋, my name is Alamin Juma
-#### I am a software engineer at - The Griffins Global Tech https://www.griffinglobaltech.com/
-<!-- ![I am a software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+```markdown
+# Hi there 👋 I'm Alamin Juma
 
-I love building staff and experimenting new technologies
+### Enterprise Software & Platform Engineer | Distributed Systems | Cloud Architecture | AWS • Azure
 
-#### I have worked as a software engineer at : 
-- Patameds Ltd building AfyaBook https://www.afyabook.com/ using modern technologies Next, Typescript, Mongodb, Express, Node js 
-- Elewa Education https://elewa.education/home building Syndic4You App - propertry management application https://syndicyourself.be/fr/ using Angular, Typescript, Firebase, Nest JS, AWS
-- Nakala Analytics https://nakala-analytics.co.ke/ building fx-nakala for forex prediction https://fx.nakala-analytics.co.ke/ and S-analyzer App https://taswirai.com/s- 
-  analyzer using Python, Typescript, NLP, Express/Node js, Next JS
-- IOTE opensource Typescript and Node Monorepo https://github.com/iote
-- - The Griffins Global Tech https://www.griffinglobaltech.com/
+I design, build, deploy, and operate production software systems.
 
-#### I have taught at :  
-- Google Developers Club MENA for Google cloud skills and Android https://drive.google.com/file/d/1wvExKQGNDLI-m2mAxyJq1R1gNfItxqoy/view?usp=sharing
-- Italanta Fullstack Bootcamp https://italanta.net/
-- I teach Fullstack Bootcamp with  Typescript, C#, .NET, Spring Boot, Nest js/Express and React/Angular  at Teach2Give https://teach2give.com/
+My work spans backend engineering, cloud infrastructure, DevOps, enterprise identity, distributed systems, AI-powered applications, and production reliability across AWS and Azure. I enjoy solving the engineering problems that sit at the intersection of software, infrastructure, and scale.
 
-#### Skills:  
-      REACT /ANGULAR/ RXJS/ REDUX/ TYPESCRIPT/ NODE JS/ GRAPHQL /  C# - .NET / JAVA - SPRING BOOT / AWS SERVERLESS / DOCKER
+---
 
-- 🔭 I’m currently working on Ethreum and Solidity for Smart Contracts
-- 🌱 I’m currently learning Blockchain and Web 3
-- 🤔 I’m looking for help with architecting a high-end application   
-- 💬 Ask me anything about building backends or frontends 
-- 📫 How to reach me: alaminjuma96@gmail.com 
-- 😄 Pronouns: He 
-- ⚡ Fun fact: Enjoys hiking, cycling, swimming and cold coke
+## 🚀 Engineering Focus
 
+- ☁️ Cloud Architecture (AWS & Azure)
+- 🏗️ Enterprise Platform Engineering
+- ⚙️ DevOps & CI/CD Automation
+- 🔐 Identity & Access Management (IAM / SSO)
+- 📦 Distributed Systems & Microservices
+- 🤖 AI Systems, LLMs & RAG Architectures
+- 📊 Observability & Production Reliability
 
-<!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alamin-juma) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://magotialamin.hashnode.dev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alamin-juma-401911151//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@254Alamin) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/alaminportfolio/projects?authuser=0)
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+## 💼 Experience
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alamin-juma)](https://github.com/ryo-ma/github-profile-trophy)
+### Griffin Global Technologies
+Enterprise Software & Platform Engineer
 
--->
-<!-- GitHub Stats -->
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin-juma&show_icons=true&count_private=true)
--->
-<!-- GitHub Metrics 
-![GitHub metrics](https://metrics.lecoq.io/alamin-juma)-->
+- Built enterprise cloud platforms across AWS and Azure
+- Designed Infrastructure as Code with Terraform
+- Built Azure DevOps & GitHub Actions pipelines
+- Implemented enterprise SSO, IAM and secure authentication
+- Introduced Grafana monitoring and production observability
+- Diagnosed and resolved complex production failures across infrastructure and applications
 
-<!-- GitHub Streak Stats -->
-<!--
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alamin-juma)
--->
+### Elewa
 
-<!-- My latest Blogs -->
-## 📗 My latest Blogs
-- [Array methods to make you a strong Javascript Developer](https://dev.to/alaminjuma/javascript-array-methods-to-master-1kgl)
+Built cloud-native enterprise platforms serving customers across Belgium, France and Germany.
 
-<!-- GitHub Activity Graph 
-### GITHUB GRAPH ⚡
-![Alamin-Juma Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alamin-Juma&custom_title=Alamin-Juma's%20Contribution%20Graph&theme=react-dark)-->
-[![Alamin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alamin-juma)](https://github.com/alamin-juma/github-readme-activity-graph)
+- Backend microservices
+- Distributed payment integrations
+- Kubernetes (EKS)
+- Event-driven architectures
+- Infrastructure as Code
+- AWS Cloud Platform
 
+### Afyabook (Patameds)
+
+Architected an offline-first payment platform for healthcare providers.
+
+**Production Outcomes**
+
+- ✅ Zero duplicate payment transactions
+- ✅ 60% reduction in failed payments
+- ✅ Exactly-once payment processing
+- ✅ Event-driven cloud architecture
+
+### Teach2Give
+
+Software Engineering Mentor
+
+- Mentored 200+ software engineers
+- 80% job placement rate
+- Led 50+ production-style engineering projects
+- Cloud, DevOps and System Design instructor
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+TypeScript • C# • Python • Java • SQL
+
+### Backend
+
+.NET • Node.js • NestJS • Express • Spring Boot
+
+### Frontend
+
+React • Angular • Next.js
+
+### Cloud
+
+AWS • Azure • Kubernetes • Docker • Terraform
+
+### DevOps
+
+Azure DevOps • GitHub Actions • ECS • Lambda • CloudFormation • Grafana
+
+### Databases
+
+PostgreSQL • DynamoDB • MongoDB • Redis
+
+### AI
+
+LLMs • RAG • AI Agents • NLP • Machine Learning
+
+---
+
+## 🌱 Currently Exploring
+
+- Multi-Agent AI Systems
+- Kubernetes Platform Engineering
+- AWS Well-Architected Framework
+- Distributed Systems at Scale
+
+---
+
+## 📚 Latest Article
+
+- **Array Methods Every JavaScript Engineer Should Master**
+  https://dev.to/alaminjuma/javascript-array-methods-to-master-1kgl
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/alamin-juma-401911151
+- 📧 Email: alaminjuma96@gmail.com
+
+---
+
+> *"Great software ships features. Great engineers build systems that continue working when everything starts going wrong."*
+
+```
