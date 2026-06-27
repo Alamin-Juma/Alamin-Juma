@@ -170,5 +170,3 @@ Helped engineers become production-ready software developers.
 > **Great engineering builds systems that continue working when everything starts going wrong."**
 
 ---
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaminjumA&theme=github-dark)
