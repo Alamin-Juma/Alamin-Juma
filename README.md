@@ -61,6 +61,15 @@ providers operating in unreliable network environments.
 
 ---
 
+---
+
+
+## 📚 Open Source
+
+- 🚀 [IOTE Monorepo](https://github.com/iote)
+
+---
+
 ## 🏗️ Cloud-Native Enterprise Systems — Elewa
 
 Built cloud-native enterprise software serving customers
@@ -135,14 +144,14 @@ Helped engineers become production-ready software developers.
 
 📖 **Array Methods Every JavaScript Engineer Should Master**
 
-https://dev.to/alaminjuma/javascript-array-methods-to-master-1kgl
+👉 [Read on DEV Community](https://dev.to/alaminjuma/javascript-array-methods-to-master-1kgl)
 
 ---
 
 # 📫 Connect With Me
 
 - 💼 **LinkedIn**  
-  https://linkedin.com/in/alamin-juma-401911151
+👉 [Connect on LinkedIn](https://www.linkedin.com/in/alamin-juma-401911151)
 
 - 📧 **Email**  
   alaminjuma96@gmail.com
@@ -152,7 +161,24 @@ https://dev.to/alaminjuma/javascript-array-methods-to-master-1kgl
 
 ---
 
-> **"Good software ships features. Great engineering builds systems that continue working when everything starts going wrong."**
+
+---
+
+# 💼 Companies
+
+- 🏢 [Griffin Global Technologies](https://www.griffinglobaltech.com/)
+- 🏥 [Afyabook](https://www.afyabook.com/)
+- 🎓 [Teach2Give](https://teach2give.com/)
+- 🧠 [Elewa](https://elewa.education/)
+- 📊 [Nakala Analytics](https://nakala-analytics.co.ke/)
+- 💹 [FX Nakala](https://fx.nakala-analytics.co.ke/)
+- 📈 [S-Analyzer](https://taswirai.com/s-analyzer)
+
+---
+
+> **"Good software ships features.**
+>
+> **Great engineering builds systems that continue working when everything starts going wrong."**
 
 ---
 
