@@ -1,4 +1,3 @@
-```markdown
 # Hi there 👋 I'm Alamin Juma
 
 ## Enterprise Software & Platform Engineer | Distributed Systems | Cloud Architecture | AWS • Azure
@@ -54,19 +53,10 @@ providers operating in unreliable network environments.
 ### Production Outcomes
 
 - ✅ Zero duplicate payment transactions
-- ✅ 60% reduction in failed payments
+- ✅ Reduced failed payments from **60% → 2%**
 - ✅ Exactly-once payment processing
 - ✅ Event-driven AWS architecture
 - ✅ Offline synchronization & recovery
-
----
-
----
-
-
-## 📚 Open Source
-
-- 🚀 [IOTE Monorepo](https://github.com/iote)
 
 ---
 
@@ -115,6 +105,12 @@ Helped engineers become production-ready software developers.
 
 ---
 
+## 📚 Open Source
+
+- 🚀 [IOTE Monorepo](https://github.com/iote)
+
+---
+
 # 🛠️ Tech Stack
 
 | Domain | Technologies |
@@ -150,17 +146,9 @@ Helped engineers become production-ready software developers.
 
 # 📫 Connect With Me
 
-- 💼 **LinkedIn**  
-👉 [Connect on LinkedIn](https://www.linkedin.com/in/alamin-juma-401911151)
-
-- 📧 **Email**  
-  alaminjuma96@gmail.com
-
-- 🌐 **Portfolio**  
-  *(Coming Soon)*
-
----
-
+- 💼 **LinkedIn** — [Connect on LinkedIn](https://www.linkedin.com/in/alamin-juma-401911151)
+- 📧 **Email** — [alaminjuma96@gmail.com](mailto:alaminjuma96@gmail.com)
+- 🐙 **GitHub** — [AlaminjumA](https://github.com/AlaminjumA)
 
 ---
 
@@ -173,6 +161,7 @@ Helped engineers become production-ready software developers.
 - 📊 [Nakala Analytics](https://nakala-analytics.co.ke/)
 - 💹 [FX Nakala](https://fx.nakala-analytics.co.ke/)
 - 📈 [S-Analyzer](https://taswirai.com/s-analyzer)
+- 🚀 [IOTE Open Source](https://github.com/iote)
 
 ---
 
@@ -182,5 +171,4 @@ Helped engineers become production-ready software developers.
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alamin-juma&theme=github-dark)
-```
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaminjumA&theme=github-dark)
