@@ -147,8 +147,8 @@ Helped engineers become production-ready software developers.
 # 📫 Connect With Me
 
 - 💼 **LinkedIn** — [Connect on LinkedIn](https://www.linkedin.com/in/alamin-juma-401911151)
-- 📧 **Email** — [alaminjuma96@gmail.com](mailto:alaminjuma96@gmail.com)
-- 🐙 **GitHub** — [AlaminjumA](https://github.com/AlaminjumA)
+- 📧 **Email** — [alidev254@gmail.com](mailto:alidev254@gmail.com)
+- 🐙 **GitHub** — [Alamin-Juma](https://github.com/Alamin-Juma)
 
 ---
 
