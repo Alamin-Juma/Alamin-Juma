@@ -1,172 +1,267 @@
-# Hi there 👋 I'm Alamin Juma
+# Hi 👋 I'm Alamin Juma
 
-## Enterprise Software & Platform Engineer | Distributed Systems | Cloud Architecture | AWS • Azure
+## Senior Software, Cloud & AI Infrastructure Engineer
 
-I design, build, deploy, and operate production software systems.
+I build production systems across the full engineering stack:
 
-My experience spans backend engineering, cloud infrastructure,
-DevOps, enterprise identity, distributed systems,
-AI-powered applications, and production reliability.
+**Software Engineering → Distributed Systems → Cloud Infrastructure → AI/LLM Systems → Production Reliability**
 
-I enjoy solving engineering problems that sit at the
-intersection of software, infrastructure, and scale.
+My work spans C#/.NET, Python, Node.js/TypeScript, React/Next.js, AWS, Azure,
+Kubernetes, Terraform, distributed systems, and production AI infrastructure.
 
----
+What makes my work interesting is usually not one technology in isolation.
 
-# 🚀 What I Build
-
-- ☁️ Cloud-Native Platforms on AWS & Azure
-- 🏗️ Enterprise Platform Engineering
-- ⚙️ DevOps & CI/CD Automation
-- 🔐 Enterprise Identity & Access Management
-- 📦 Distributed Systems & Event-Driven Architectures
-- 🤖 AI Systems, LLMs & RAG Applications
-- 📊 Observability & Production Reliability
+I enjoy engineering systems where application code, cloud infrastructure,
+AI models, networking, security, state, observability, cost, and reliability
+all have to work together in production.
 
 ---
 
-# 💼 Engineering Highlights
+# ⚡ What I Engineer
 
-## ☁️ Enterprise Platform Engineering — Griffin Global Technologies
+### 🤖 Production AI & LLM Systems
+- Agentic AI workflows and tool calling
+- Real-time voice AI systems
+- Retrieval-Augmented Generation (RAG)
+- Structured LLM outputs and validation
+- Human-in-the-loop AI workflows
+- Deterministic guardrails around probabilistic models
+- Model inference and cost optimization
+- AI observability, evaluation and failure handling
 
-Own the platform end-to-end across application development,
-cloud infrastructure, CI/CD, enterprise identity,
-and production operations.
+### ☁️ Cloud & Platform Infrastructure
+- AWS and Azure production architectures
+- Kubernetes, EKS, ECS and containerized workloads
+- Terraform and Infrastructure as Code
+- CI/CD and automated deployment systems
+- IAM, secrets, networking and production security
+- High availability, monitoring and incident response
 
-### Highlights
-
-- Reduced deployment time by **75%**
-- Built Azure DevOps & GitHub Actions pipelines
-- Engineered enterprise SSO & IAM
-- Introduced Infrastructure as Code with Terraform
-- Implemented Grafana monitoring & alerting
-- Solved complex production deployment failures
-- Improved platform reliability across AWS & Azure
+### ⚙️ Software & Distributed Systems
+- C#/.NET, Python and Node.js backend systems
+- TypeScript, React and Next.js applications
+- REST APIs, gRPC and WebSockets
+- Microservices and event-driven architectures
+- Concurrency and distributed state
+- Idempotent and exactly-once workflows
+- Payment and transaction systems
 
 ---
 
-## 💳 Distributed Payment Systems — Afyabook
+# 🚀 Selected Production Engineering
 
-Architected an offline-first payment platform for healthcare
-providers operating in unreliable network environments.
+## 🤖 Real-Time Agentic AI & Payment Infrastructure
+
+Architected and operated a production real-time AI payment platform combining
+LLMs, voice infrastructure, backend services and AWS infrastructure.
+
+### Architecture
+
+`Phone / SIP → LiveKit → AI Agent → Tools → Payment Services → Human Escalation`
+
+### Engineering
+
+- Amazon Bedrock and Nova models
+- Real-time streaming voice AI with LiveKit
+- Tool-calling agent workflows
+- Structured outputs and deterministic validation
+- Human-in-the-loop escalation
+- RAG and enterprise knowledge retrieval
+- Stateful conversational workflows
+- Kubernetes/EKS production deployment
+- Terraform infrastructure
+- IAM-authenticated data access
+- KMS encryption and least-privilege security
+- Production monitoring and failure recovery
 
 ### Production Outcomes
 
-- ✅ Zero duplicate payment transactions
-- ✅ Reduced failed payments from **60% → 2%**
-- ✅ Exactly-once payment processing
-- ✅ Event-driven AWS architecture
-- ✅ Offline synchronization & recovery
+- Reduced AI infrastructure cost by approximately **85%**
+- Improved payment conversion by approximately **50%**
+- Designed deterministic guardrails around LLM decisions
+- Built and validated real-time human transfer workflows
+- Optimized model selection using latency, concurrency and cost measurements
+- Operated the system across application, AI and infrastructure layers
+
+This is the kind of engineering I enjoy most: AI is one component of a larger
+production system, not the entire system.
 
 ---
 
-## 🏗️ Cloud-Native Enterprise Systems — Elewa
+## 🏢 Enterprise Software & Cloud Platform Engineering
 
-Built cloud-native enterprise software serving customers
-across Belgium, France, and Germany.
+Own engineering across application development, infrastructure, deployment,
+identity and production operations.
 
-### Engineering Highlights
+### Software
 
-- Kubernetes (EKS) payment orchestration
-- Distributed payment integrations
-- Event-driven microservices
-- Infrastructure as Code
-- Multi-tenant architectures
-- High-availability cloud systems
+- React / Next.js applications
+- Node.js services
+- C# / .NET microservices
+- REST APIs
+- Distributed application state
+- RBAC and enterprise authentication
 
----
+### Infrastructure
 
-## 🤖 AI & Machine Learning — Nakala Analytics
+- AWS and Azure
+- Kubernetes / EKS / ECS
+- Terraform
+- Azure App Service and Functions
+- Azure SQL
+- Service Bus
+- GitHub Actions and Azure DevOps
 
-Built production ML systems for analytics,
-forecasting, and intelligent decision support.
+### Reliability
 
-### Engineering Highlights
+- High-availability Kubernetes workloads
+- Production observability and incident response
+- Infrastructure cost optimization
+- Automated deployments and environment promotion
+- Identity, networking and security troubleshooting
 
-- Machine Learning
-- NLP
-- Data Pipelines
-- Backend APIs
-- Production ML Deployment
+### Outcomes
 
----
-
-## 👨‍🏫 Engineering Mentorship
-
-Helped engineers become production-ready software developers.
-
-### Impact
-
-- 👨‍💻 Mentored 200+ engineers
-- 📈 80% job placement rate
-- 🚀 Led 50+ production engineering projects
-- ☁️ Cloud & DevOps Instructor
-- 🏛️ Microsoft • UN • Teach2Give
+- Reduced infrastructure cost by approximately **40%**
+- Built infrastructure across brownfield and greenfield environments
+- Supported production systems serving **1,000+ concurrent users**
+- Improved deployment and operational reliability
 
 ---
 
-## 📚 Open Source
+## 💳 Offline-First Distributed Payment Systems
 
-- 🚀 [IOTE Monorepo](https://github.com/iote)
+Architected payment infrastructure for healthcare environments where
+connectivity cannot be assumed.
+
+### Architecture
+
+`Client → Offline Queue → Sync Engine → API → Payment Workflow → Reconciliation`
+
+### Engineering
+
+- M-Pesa and card payment workflows
+- Deterministic idempotency keys
+- Atomic transaction deduplication
+- PostgreSQL
+- DynamoDB
+- AWS Lambda
+- SQS
+- Service-worker synchronization
+- Retry and replay protection
+- Payment reconciliation
+
+### Production Outcomes
+
+- **Zero duplicate charges across six months**
+- Reduced failed payment transactions by approximately **60%**
+- Protected the system against replay storms and concurrent synchronization
+- Designed recovery for unreliable network conditions
 
 ---
 
-# 🛠️ Tech Stack
+## 🌍 Cloud-Native Enterprise Systems
+
+Built distributed enterprise software supporting customers across
+Belgium, France and Germany.
+
+- Event-driven backend architectures
+- Kubernetes-based workloads
+- AWS infrastructure
+- Financial and payment workflows
+- Terraform and CloudFormation
+- Persistent workflow state and recovery
+- Multi-tenant systems
+
+**Result:** reduced production incidents by approximately **40%**.
+
+---
+
+# 🧠 AI Engineering
+
+My AI work focuses on making models useful inside reliable production systems.
+
+I work across:
+
+| Layer | Experience |
+|---|---|
+| **LLM Applications** | Agentic workflows • Tool calling • Structured outputs |
+| **Models** | Amazon Bedrock • Nova • OpenAI • Anthropic |
+| **Voice AI** | LiveKit • Streaming speech • Real-time agents |
+| **Retrieval** | RAG • Bedrock Knowledge Bases • Vector retrieval |
+| **Agent Safety** | Guardrails • Validation • Human-in-the-loop |
+| **AI Infrastructure** | Kubernetes • AWS • Model routing • Scaling |
+| **Optimization** | Token cost • Latency • Concurrency • Model selection |
+| **Reliability** | State machines • Retries • Idempotency • Failure recovery |
+
+I treat LLMs as probabilistic components inside deterministic production systems.
+
+---
+
+# ☁️ Cloud & Infrastructure Engineering
+
+```text
+AWS / Azure
+    │
+    ├── Kubernetes / EKS / ECS
+    ├── Terraform / CloudFormation
+    ├── CI/CD
+    ├── IAM / Security
+    ├── Networking
+    ├── Databases / Messaging
+    ├── Observability
+    └── AI / LLM Workloads
+```
+
+My infrastructure work includes both building new environments and integrating
+with existing production infrastructure without unnecessarily recreating
+resources already owned by other systems.
+
+---
+
+# 🛠️ Technology Stack
 
 | Domain | Technologies |
-|---------|--------------|
-| **Languages** | TypeScript • C# • Python • Java • SQL |
-| **Backend** | .NET • Node.js • NestJS • Spring Boot • Express |
-| **Frontend** | React • Angular • Next.js |
-| **Cloud** | AWS • Azure • Kubernetes • Docker |
-| **Infrastructure** | Terraform • CloudFormation • ECS • Lambda |
-| **DevOps** | Azure DevOps • GitHub Actions • Grafana |
-| **Databases** | PostgreSQL • DynamoDB • MongoDB • Redis |
-| **AI** | LLMs • RAG • AI Agents • NLP • Machine Learning |
+|---|---|
+| **Languages** | C# • Python • TypeScript • JavaScript • Java • SQL |
+| **Backend** | .NET • Node.js • NestJS • Express • Flask |
+| **Frontend** | React • Next.js • Angular |
+| **Architecture** | Microservices • Event-Driven Systems • Distributed Systems • State Machines |
+| **AWS** | Bedrock • EKS • ECS • Lambda • API Gateway • RDS • SQS • S3 • DynamoDB • IAM • KMS |
+| **Azure** | App Service • Functions • Azure SQL • Service Bus • Blob Storage • Managed Identity |
+| **Infrastructure** | Kubernetes • Docker • Terraform • CloudFormation |
+| **CI/CD** | GitHub Actions • Azure DevOps |
+| **Data** | PostgreSQL • DynamoDB • MongoDB • Redis • SQL Server |
+| **AI** | LLM Agents • RAG • Tool Calling • Voice AI • Structured Generation |
+| **Observability** | CloudWatch • Application Insights • Grafana |
+| **Systems** | Linux • Networking • SIP • WebRTC |
 
 ---
 
-# 🌱 Currently Exploring
+# 🔬 Currently Deepening
 
-- Multi-Agent AI Systems
-- Platform Engineering
-- Kubernetes at Scale
-- AWS Well-Architected Framework
-- Enterprise AI Agents
+I continuously experiment with the next layer of production AI infrastructure:
+- Durable agent workflows
+- Persistent agent memory
+- MCP and tool interoperability
+- AI evaluation and tracing
+- Hybrid retrieval and reranking
+- Model routing
+- Multimodal AI systems
+- Self-hosted inference with vLLM / Ollama
+- GPU inference optimization
+- Agent security and prompt-injection defense
+- AI quality, latency and cost benchmarking
 
----
-
-# 📝 Latest Article
-
-📖 **Array Methods Every JavaScript Engineer Should Master**
-
-👉 [Read on DEV Community](https://dev.to/alaminjuma/javascript-array-methods-to-master-1kgl)
-
----
-
-# 📫 Connect With Me
-
-- 💼 **LinkedIn** — [Connect on LinkedIn](https://www.linkedin.com/in/alamin-juma-401911151)
-- 📧 **Email** — [alidev254@gmail.com](mailto:alidev254@gmail.com)
-- 🐙 **GitHub** — [Alamin-Juma](https://github.com/Alamin-Juma)
+These are areas I'm actively developing further rather than presenting as
+production experience where I have not yet operated them at scale.
 
 ---
 
-# 💼 Companies
+# 👨‍🏫 Engineering Mentorship
 
-- 🏢 [Griffin Global Technologies](https://www.griffinglobaltech.com/)
-- 🏥 [Afyabook](https://www.afyabook.com/)
-- 🎓 [Teach2Give](https://teach2give.com/)
-- 🧠 [Elewa](https://elewa.education/)
-- 📊 [Nakala Analytics](https://nakala-analytics.co.ke/)
-- 💹 [FX Nakala](https://fx.nakala-analytics.co.ke/)
-- 📈 [S-Analyzer](https://taswirai.com/s-analyzer)
-- 🚀 [IOTE Open Source](https://github.com/iote)
-
----
-
-> **"Good software ships features.**
->
-> **Great engineering builds systems that continue working when everything starts going wrong."**
-
----
+Alongside production engineering, I've trained and mentored engineers in
+software development, cloud and DevOps.
+- 👨‍💻 Mentored 200+ engineers
+- 📈 Helped cohorts achieve strong employment outcomes
+- ☁️ Cloud and platform engineering enablement
