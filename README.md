@@ -237,21 +237,19 @@ resources already owned by other systems.
 
 # 🔬 Currently Deepening
 
-I continuously experiment with these layers of  AI infrastructure:
-- Durable agent workflows
-- Persistent agent memory
-- MCP and tool interoperability
-- AI evaluation and tracing
-- Hybrid retrieval and reranking
-- Model routing
-- Multimodal AI systems
-- Self-hosted inference with vLLM / Ollama
-- GPU inference optimization
-- Agent security and prompt-injection defense
-- AI quality, latency and cost benchmarking
+I am actively building AI workflows across these layers to harness these skills, combining hands-on personal projects with iterative learning and production implementations:
 
-These are areas I'm actively developing further rather than presenting as
-production experience where I have not yet operated them at scale.
+- **Durable Agent Workflows** & state management
+- **Persistent Agent Memory** architectures
+- **MCP (Model Context Protocol)** and tool interoperability
+- **AI Evaluation** and system tracing
+- **Hybrid Retrieval** and advanced reranking
+- **Dynamic Model Routing** for performance and cost
+- **Multimodal AI** system design
+- **Self-Hosted Inference** using vLLM and Ollama
+- **GPU Inference** latency optimization
+- **Agent Security** and prompt-injection defense
+- **AI Quality**, latency, and cost benchmarking
 
 ---
 
