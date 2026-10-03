@@ -83,9 +83,6 @@ LLMs, voice infrastructure, backend services and AWS infrastructure.
 - Optimized model selection using latency, concurrency and cost measurements
 - Operated the system across application, AI and infrastructure layers
 
-This is the kind of engineering I enjoy most: AI is one component of a larger
-production system, not the entire system.
-
 ---
 
 ## 🏢 Enterprise Software & Cloud Platform Engineering
@@ -240,7 +237,7 @@ resources already owned by other systems.
 
 # 🔬 Currently Deepening
 
-I continuously experiment with the next layer of production AI infrastructure:
+I continuously experiment with these layers of  AI infrastructure:
 - Durable agent workflows
 - Persistent agent memory
 - MCP and tool interoperability
